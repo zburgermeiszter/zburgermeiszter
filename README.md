@@ -14,6 +14,7 @@ As an __[AWS Certified Cloud Practitioner]__ I can help you with the following s
 - __Site Reliability Engineer__
 - __Platform Engineer__
 - __Backend Engineer__
+- __Full-stack Engineer__
 - __Senior Software Engineer__
 
 I build resilient solutions for you using __AWS__, __DevOps__, __CI/CD__, __Kubernetes__, __Terraform__, __CDK__, __Node.js__, __TypeScript__ and __PHP__.
@@ -23,10 +24,7 @@ Work with me as a project-based contractor or as a flexible freelancer.
 # 🌎 Global solutions for you
 
 Get help across borders.  
-I work globally for Remote Companies in the __UK__, __EU__, __USA__ and __Canada__.  
-  
-You get ultimate flexibility when working with me on your projects without worrying about VISAs, etc.  
-You simply pay for Results, no boring paperwork.  
+I work globally for Remote Companies in the __UK__, __EU__, __USA__ and __Canada__.
   
 Keywords:  
 AWS DevOps Contractor with a Node.js software development background.  
