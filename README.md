@@ -3,36 +3,38 @@
 Hi,
 
 My name is [Zoltan Burgermeiszter](https://www.linkedin.com/in/zoltanburgermeiszter/).  
-I'm an __AWS DevOps Consultant__ building __AWS__ and __Kubernetes__ __Cloud Solutions__ for __Remote Companies__ with __10 years of professional experience__.  
-I provide my services through my UK and EU-based consulting company [Backend Doctor].  
+
+Experienced **Senior Platform Engineer** with over **12 years of professional experience**, architecting and implementing robust, cost-optimised cloud-native Infrastructure-as-Code (**Terraform, CDK, Helm, Ansible**) solutions on **AWS, Azure, GCP, Kubernetes (EKS, AKS, GKE)**, powered by **Docker, Node.js, TypeScript Serverless Lambda Functions and CI/CD Pipelines (GitHub Actions, GitLab)**. 
+
+Worked on R&D projects for recognised organisations such as the **UK Ministry of Defence (MoD)**, **Deloitte**, and **Jaguar Land Rover**.
+
+Thrive and deliver the best results in **fully remote** environments, and is open to opportunities in the UK, Europe (EU, EEA).
 
 # 🤝 How can I help you? 
 
-As an __[AWS Certified Cloud Practitioner]__ I can help you with the following services:
+As a **Senior Platform Engineer**, I can help you with the following skillsets:
 
-- __AWS DevOps Engineer__
-- __Site Reliability Engineer__
-- __Platform Engineer__
-- __Backend Engineer__
-- __Full-stack Engineer__
-- __Senior Software Engineer__
+I can help you with the following skillset:
+- **Senior Platform Engineer**
+- **Site Reliability Engineer**
+- **Senior DevOps Engineer**
+- **Senior Software Engineer**
+- **Backend Engineer**
+- **Full-stack Engineer**
 
-I build resilient solutions for you using __AWS__, __DevOps__, __CI/CD__, __Kubernetes__, __Terraform__, __CDK__, __Node.js__, __TypeScript__ and __PHP__.
-
-Work with me as a project-based contractor or as a flexible freelancer.
-
-# 🌎 Global solutions for you
-
-Get help across borders.  
-I work globally for Remote Companies in the __UK__, __EU__, __USA__ and __Canada__.
   
-Keywords:  
-AWS DevOps Contractor with a Node.js software development background.  
-10 years of professional experience.  
-AWS Certified Cloud Practitioner.  
-Exposure to API Gateway, Aurora Serverless, CDK, CloudFormation, CloudFront, CloudWatch, CodeBuild, CodePipeline, EC2, ECS, ELB, EventBridge, IAM, Lambda, Lightsail, Parameter Store, S3, Secrets Manager, SES, SNS, SSO, SQS, VPC, WAF.  
-Experience with DevOps, Docker, Kubernetes, Terraform, CDK, CI/CD, GitHub Actions, MySQL and Postgres.  
-Senior Developer in Node.js, TypeScript, PHP and is capable of working with Python.  
+# 🔍 Keywords:
+Senior Platform Engineer with Software Engineering experience.
+Over 12 years of professional experience, including 2 years of team leadership.
+Experienced with DevOps, Docker, Kubernetes, Terraform, Helm, CDK, GitHub Actions,
+GitLab, CI/CD pipelines, Datadog, MySQL, Postgres, React, GraphQL and GitOps.
+Senior Developer in Node.js, TypeScript, PHP and is capable of working with Python.
+R&D projects for the Ministry of Defence (MoD), Deloitte and Jaguar Land Rover.
+AWS Certified Cloud Practitioner.
+Exposure to ACM, Ansible, API Gateway, Aurora Serverless, Bash, CDK, CloudFormation,
+CloudFront, CloudWatch, CodeBuild, CodePipeline, EC2, ECS, ELB, EventBridge, GitHub,
+GitLab, IAM, JSON, Lambda, Lightsail, Parameter Store, S3, Secrets Manager, SES, SNS,
+Identity Center (SSO), SQS, Terragrunt, VPC, WAF.
 Git, Bash, JSON  
 
 
@@ -44,6 +46,7 @@ Git, Bash, JSON
 
 # 📫 Contact
 LinkedIn: [zoltanburgermeiszter](https://www.linkedin.com/in/zoltanburgermeiszter/)
+LinkTree: https://linktr.ee/zburgermeiszter
 
 
 [AWS Certified Cloud Practitioner]: https://www.credly.com/badges/24ddc2af-0e35-4917-ac2a-1bb089dc2b75/
